@@ -12,7 +12,7 @@ PKG_VERSION:=0.1
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=http://downloads.openwrt.org/sources
+PKG_SOURCE_URL:=http://sources.openwrt.org/
 PKG_HASH:=37b4409ea2105520b4a7327e53c3210251000ddf58f81a8e4c19e6ff9d615afe
 
 PKG_FLAGS:=nonshared
