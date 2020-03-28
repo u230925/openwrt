@@ -63,7 +63,7 @@ ifneq ($(CONFIG_VOICE_CPE_VMMC_MPS_HISTORY_SIZE),128)
 endif
 
 #defaults
-FW_URL:=http://downloads.openwrt.org/sources/
+FW_URL:=http://sources.openwrt.org/
 FW_TARGET:=ifx_firmware.bin
 FW_FILE:=fw_voip_ifx.tar.gz
 COEF_TARGET:=ifx_bbd_fxs.bin
