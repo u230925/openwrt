@@ -6,7 +6,7 @@
 # See /LICENSE for more information.
 #
 
-PROJECT_GIT = https://git.openwrt.org
+PROJECT_GIT = https://github.com/u230925/openwrt.git
 
 OPENWRT_GIT = $(PROJECT_GIT)
 LEDE_GIT = $(PROJECT_GIT)
